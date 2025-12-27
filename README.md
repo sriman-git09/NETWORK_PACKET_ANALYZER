@@ -97,8 +97,6 @@ packet-sniffer
 scapy
 tkinter
 ethical-hacking
-internship-project
-
 
 let's run .
 
